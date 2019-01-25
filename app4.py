@@ -14,8 +14,8 @@ def say_hi(name, age):
     print("Hello " + name)
     print("The age is " + str(age))
 
-say_hi("mike", 10)
-say_hi("giri", 10)
+say_hi("mike", 10)  # Passing data values directly
+say_hi("giri", 10)  # Passing data values directly
 
 
 def raised_to(num1, num2):  # Raised to function
