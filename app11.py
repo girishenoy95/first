@@ -15,3 +15,10 @@ try:
 except ZeroDivisionError:   # Will catch a specific exception
     print("Cannot divide by zero")
 
+
+# Example 3
+try:
+    di = 10/0
+    print("Number divided by zero")
+except ZeroDivisionError as err:  # Will store the error in a variable we can print via variable
+    print(err)
