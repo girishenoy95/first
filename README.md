@@ -1,3 +1,3 @@
 # first
 python tutorial
-This is a basic overview about how to do things in Python in Laymans Word
+This is a heavily commented basic python codes to understand to beginners.
